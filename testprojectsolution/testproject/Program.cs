@@ -10,8 +10,7 @@ namespace testproject
     {
         static void Main(string[] args)
         {
-            //change for branch
-            //test
+            //change for branch 1.2
         }
     }
 }
